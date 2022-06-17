@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bayescopulareg",
+    "oncran": true
+  },
+  {
+    "package": "bmabasket",
+    "oncran": true
+  },
+  {
+    "package": "surbayes",
+    "oncran": true
+  }
+]
