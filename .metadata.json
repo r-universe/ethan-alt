@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "bmabasket",
+    "package": "surbayes",
     "oncran": true
   },
   {
-    "package": "surbayes",
+    "package": "bmabasket",
     "oncran": true
   }
 ]

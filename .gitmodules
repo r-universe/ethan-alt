@@ -8,13 +8,13 @@
 	url = https://github.com/ethan-alt/bayescopulareg
 	shallow = true
 	registered = true
-[submodule "bmabasket"]
-	path = bmabasket
-	url = https://github.com/ethan-alt/bmabasket
-	shallow = true
-	registered = true
 [submodule "surbayes"]
 	path = surbayes
 	url = https://github.com/ethan-alt/surbayes
+	shallow = true
+	registered = true
+[submodule "bmabasket"]
+	path = bmabasket
+	url = https://github.com/ethan-alt/bmabasket
 	shallow = true
 	registered = true
