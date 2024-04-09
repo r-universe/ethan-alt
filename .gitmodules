@@ -8,6 +8,9 @@
 [submodule "bmabasket"]
 	path = bmabasket
 	url = https://github.com/ethan-alt/bmabasket
+[submodule "hdbayes"]
+	path = hdbayes
+	url = https://github.com/ethan-alt/hdbayes
 [submodule "surbayes"]
 	path = surbayes
 	url = https://github.com/ethan-alt/surbayes
