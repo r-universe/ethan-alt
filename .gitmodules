@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayescopulareg"]
-	path = bayescopulareg
-	url = https://github.com/ethan-alt/bayescopulareg
 [submodule "hdbayes"]
 	path = hdbayes
 	url = https://github.com/ethan-alt/hdbayes
-[submodule "surbayes"]
-	path = surbayes
-	url = https://github.com/ethan-alt/surbayes
